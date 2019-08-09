@@ -11,6 +11,5 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
-
-a brief description of your project goes here
+## Microphi
+This program is designed to pause/resume, search songs and play them. It was coded in Pycharm using Python. Using the Spotipy to help aid in this along with Microbit Serial.
